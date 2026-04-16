@@ -57,6 +57,7 @@ pkg install git -y
 * ☞ SELECT OPTION ➤  1 / 2 
 * ENTER ORIGINAL URL (ex: https://example.com) :
 * ENTER CUSTOM DOMAIN (ex: gmail.com) :
+* ENTER MASKING KEYWORD (ex: login): 15
 * ENTER DONE 
 ---
 ## Screenshot 

@@ -59,7 +59,11 @@ pkg install git -y
 * ENTER CUSTOM DOMAIN (ex: gmail.com) :
 * ENTER DONE 
 ---
+## Screenshot 
 
+![Screenshot](https://github.com/tatshsnsk/urlmakemask/raw/9ee8cb1e51e7600bd152e80a787d94681baea1d3/Picsart_26-04-16_23-38-41-696.jpg)
+
+---
 ## 🙋 Contact Author 
 
 - CHANDPUR CYBER TEAM
